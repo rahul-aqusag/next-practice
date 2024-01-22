@@ -1,0 +1,23 @@
+# Ignore Next.js build artifacts
+.next/
+out/
+
+# Ignore Node.js related files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# Ignore environment files
+.env*
+
+# Ignore system files
+.DS_Store
+
+# Ignore temporary files
+*.log
+*.swp
+
+# Ignore build artifacts
+dist/
+build/
